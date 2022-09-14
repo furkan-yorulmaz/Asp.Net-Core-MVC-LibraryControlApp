@@ -1,0 +1,45 @@
+﻿@model BookDetailModel
+
+<div class="bg-light border p-4 rounded">
+    <div class="d-flex bg-light p-2 rounded">
+        <a href="~/editbook/@Model.Id" class="btn btn-warning me-1"><i class="bi bi-pencil-fill"></i></a>
+        <form method="post" asp-controller="admin" asp-action="deletebook">
+            <input type="hidden" name="Id" value="@Model.Id" />
+            <button class="btn btn-danger me-1"><i class="bi bi-trash-fill"></i></button>
+        </form>
+    </div>
+    <div class="row p-2">
+        <div class="col-md-2">
+            <img class="img-fluid border rounded mb-1" src="~/img/@Model.ImageUrl" />
+            @if (Model.Stock > 0)
+            {
+                <a href="~/booksale/@Model.Id" class="btn btn-outline-success w-100 py-1">Satış/Kiralama</a>
+            }
+            else
+            {
+                <div class="alert alert-danger">
+                    Ürün stokta bulunmuyor.
+                </div>
+            }
+        </div>
+        <div class="col-md-auto pe-5">
+            <a href="~/books/@Model.Category" class="text-decoration-none text-secondary"><h6 class="d-inline">@Model.Category</h6></a>
+            <h1>@Model.Name</h1>
+            <h4>@Model.Writer</h4>
+            <label>Birim Fiyatı: @Model.Price ₺</label>
+        </div>
+        <div class="col-md px-3">
+            <h6>Kitap Hakkında</h6>
+            <p>
+                @Model.Description
+            </p>
+            <h6>Kayıt Bilgileri</h6>
+            <p class="mt-2">
+                <i class="bi bi-box-seam"></i> @Model.Stock adet stokta<br />
+                <i class="bi bi-bag-check"></i> @Model.Sold adet satış<br />
+                <i class="bi bi-bag"></i> @Model.Leased adet kiralama<br />
+                <a href="~/sales" class="text-decoration-none"><i class="bi bi-list-ul"></i> Kiralama Listesi</a>
+            </p>
+        </div>
+    </div>
+</div>

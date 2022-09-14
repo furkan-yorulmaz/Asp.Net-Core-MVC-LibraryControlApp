@@ -1,0 +1,60 @@
+﻿@using LibraryControl.Entity.Entities
+@model List<Book>
+
+<nav class="navbar bg-light mb-4 border rounded p-2">
+    <div class="container-fluid">
+        <h2>Kayıtlı Kitaplar</h2>
+        <form class="d-flex" method="get" asp-controller="admin" asp-action="books">
+            <input class="form-control me-2" name="search" placeholder="Kayıt ara.." aria-label="Search">
+            <button class="btn btn-primary" type="submit"><i class="bi bi-search"></i></button>
+        </form>
+    </div>
+    <div class="container-fluid">
+        <small class="text-secondary">@ViewBag.Title <a class="text-secondary" href="~/books">Aramayı temizle</a></small>
+    </div>
+</nav>
+<div class="row">
+    <div class="col-md-2">
+        @await Component.InvokeAsync("CategoryList")
+    </div>
+    <div class="col-md-10">
+
+        @if (Model.Count() != 0)
+        {
+            @foreach (var item in Model)
+            {
+                <div class="mb-2 bg-light border p-2 rounded">
+
+                    <div class="row">
+                        <div class="col-md-1 d-flex justify-content-center align-items-center">
+                            @item.Id
+                        </div>
+                        <div class="col-md-1 d-flex justify-content-center align-items-center">
+                            <img style="width:30px;" class="img-fluid" src="~/img/@item.ImageUrl" />
+                        </div>
+                        <div class="col d-flex justify-content-center align-items-center">
+                            @item.Name
+                        </div>
+                        <div class="col d-flex justify-content-center align-items-center">
+                            @item.Writer?.Name
+                        </div>
+                        <div class="col-md-2 d-flex justify-content-center align-items-center">
+                            <a href="~/book/@item.Id" class="btn btn-dark me-1"><i class="bi bi-info-circle"></i></a>
+                            <form method="post" asp-controller="admin" asp-action="deletebook">
+                                <input type="hidden" name="id" value="@item.Id">
+                                <button type="submit" class="btn btn-danger my-1"><i class="bi bi-trash-fill"></i></button>
+                            </form>
+                        </div>
+                    </div>
+                </div>
+            }
+
+        }
+        else
+        {
+            <div class="alert alert-dark m-0">
+                Aranılan kriterlerde kayıt bulunmuyor.
+            </div>
+        }
+    </div>
+</div>

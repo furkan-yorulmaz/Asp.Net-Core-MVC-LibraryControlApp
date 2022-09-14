@@ -1,0 +1,68 @@
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Business.deps.json
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Business.pdb
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Business\obj\Debug\net6.0\refint\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.pdb
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Business\obj\Debug\net6.0\ref\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.DataAccess.pdb
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.csproj.CopyComplete
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Business.deps.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Business.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.DataAccess.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.csproj.CopyComplete
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Business\obj\Debug\net6.0\refint\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Business\obj\Debug\net6.0\ref\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Business.deps.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Business.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.DataAccess.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.csproj.CopyComplete
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Business\obj\Debug\net6.0\refint\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Business\obj\Debug\net6.0\ref\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Business.deps.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Business.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.DataAccess.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Business\bin\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.csproj.CopyComplete
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Business\obj\Debug\net6.0\refint\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Business\obj\Debug\net6.0\LibraryControl.Business.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Business\obj\Debug\net6.0\ref\LibraryControl.Business.dll

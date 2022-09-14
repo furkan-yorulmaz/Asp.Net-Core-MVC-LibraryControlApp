@@ -1,0 +1,260 @@
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\appsettings.json
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\LibraryControl.staticwebassets.runtime.json
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\LibraryControl.exe
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\LibraryControl.deps.json
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\LibraryControl.runtimeconfig.json
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\LibraryControl.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\LibraryControl.pdb
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\obj\Debug\net6.0\LibraryControl.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\obj\Debug\net6.0\LibraryControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\obj\Debug\net6.0\LibraryControl.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\obj\Debug\net6.0\LibraryControl.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\obj\Debug\net6.0\LibraryControl.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\obj\Debug\net6.0\LibraryControl.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\obj\Debug\net6.0\LibraryControl.RazorAssemblyInfo.cache
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\obj\Debug\net6.0\LibraryControl.RazorAssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\obj\Debug\net6.0\scopedcss\bundle\LibraryControl.styles.css
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\obj\Debug\net6.0\LibraryControl.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\obj\Debug\net6.0\refint\LibraryControl.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\obj\Debug\net6.0\LibraryControl.pdb
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\obj\Debug\net6.0\LibraryControl.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\obj\Debug\net6.0\ref\LibraryControl.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\Humanizer.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\obj\Debug\net6.0\LibraryControl.csproj.CopyComplete
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\LibraryControl.Business.pdb
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\LibraryControl.DataAccess.pdb
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\appsettings.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.staticwebassets.runtime.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.exe
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.deps.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.runtimeconfig.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\Humanizer.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.Business.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.DataAccess.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.RazorAssemblyInfo.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.RazorAssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\obj\Debug\net6.0\scopedcss\bundle\LibraryControl.styles.css
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.csproj.CopyComplete
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\obj\Debug\net6.0\refint\LibraryControl.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl\obj\Debug\net6.0\ref\LibraryControl.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\appsettings.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.staticwebassets.runtime.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.exe
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.deps.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.runtimeconfig.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\Humanizer.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.Business.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.DataAccess.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\bin\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.RazorAssemblyInfo.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.RazorAssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\obj\Debug\net6.0\scopedcss\bundle\LibraryControl.styles.css
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.csproj.CopyComplete
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\obj\Debug\net6.0\refint\LibraryControl.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\obj\Debug\net6.0\LibraryControl.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl\obj\Debug\net6.0\ref\LibraryControl.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\appsettings.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\LibraryControl.staticwebassets.runtime.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\LibraryControl.exe
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\LibraryControl.deps.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\LibraryControl.runtimeconfig.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\LibraryControl.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\LibraryControl.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\Humanizer.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\LibraryControl.Business.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\LibraryControl.Business.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\LibraryControl.DataAccess.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\bin\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\obj\Debug\net6.0\LibraryControl.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\obj\Debug\net6.0\LibraryControl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\obj\Debug\net6.0\LibraryControl.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\obj\Debug\net6.0\LibraryControl.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\obj\Debug\net6.0\LibraryControl.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\obj\Debug\net6.0\LibraryControl.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\obj\Debug\net6.0\LibraryControl.RazorAssemblyInfo.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\obj\Debug\net6.0\LibraryControl.RazorAssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\obj\Debug\net6.0\scopedcss\bundle\LibraryControl.styles.css
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\obj\Debug\net6.0\LibraryControl.csproj.CopyComplete
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\obj\Debug\net6.0\LibraryControl.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\obj\Debug\net6.0\refint\LibraryControl.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\obj\Debug\net6.0\LibraryControl.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\obj\Debug\net6.0\LibraryControl.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl\obj\Debug\net6.0\ref\LibraryControl.dll

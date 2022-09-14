@@ -1,0 +1,56 @@
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Entity\bin\Debug\net6.0\LibraryControl.Entity.deps.json
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Entity\bin\Debug\net6.0\LibraryControl.Entity.runtimeconfig.json
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Entity\bin\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Entity\bin\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Entity\obj\Debug\net6.0\refint\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.Entity\obj\Debug\net6.0\ref\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Entity\bin\Debug\net6.0\LibraryControl.Entity.deps.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Entity\bin\Debug\net6.0\LibraryControl.Entity.runtimeconfig.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Entity\bin\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Entity\bin\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Entity\obj\Debug\net6.0\refint\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.Entity\obj\Debug\net6.0\ref\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Entity\bin\Debug\net6.0\LibraryControl.Entity.deps.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Entity\bin\Debug\net6.0\LibraryControl.Entity.runtimeconfig.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Entity\bin\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Entity\bin\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Entity\obj\Debug\net6.0\refint\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.Entity\obj\Debug\net6.0\ref\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Entity\bin\Debug\net6.0\LibraryControl.Entity.deps.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Entity\bin\Debug\net6.0\LibraryControl.Entity.runtimeconfig.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Entity\bin\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Entity\bin\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Entity\obj\Debug\net6.0\refint\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Entity\obj\Debug\net6.0\LibraryControl.Entity.genruntimeconfig.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.Entity\obj\Debug\net6.0\ref\LibraryControl.Entity.dll

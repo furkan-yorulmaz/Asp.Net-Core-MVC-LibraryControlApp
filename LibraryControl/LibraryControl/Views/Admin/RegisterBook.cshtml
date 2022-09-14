@@ -1,0 +1,55 @@
+﻿@using LibraryControl.Entity.Entities
+@model BookModel
+
+<div class="bg-light border p-4 rounded m-auto" style="width:50%;">
+    <h2>Kitap Ekle</h2>
+    <form asp-controller="admin" asp-action="registerbook" method="post" enctype="multipart/form-data">
+        <div class="mb-3">
+            <label class="form-label">Kitap adı</label>
+            <input asp-for="Name" class="form-control" />
+            <span class="text-danger" asp-validation-for="Name"></span>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Kategori</label>
+            <select class="form-select" asp-for="CategoryId">
+                @foreach (var item in (List<Category>)ViewBag.Categories)
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Yazar</label>
+            <select class="form-select" asp-for="WriterId">
+                @foreach (var item in (List<Writer>)ViewBag.Writers)
+                {
+                    <option value="@item.Id">@item.Name</option>
+                }
+            </select>
+        </div>
+        <div class="mb-3">
+            <label class="form-label">Açıklama</label>
+            <textarea asp-for="Description" class="form-control"></textarea>
+            <span class="text-danger" asp-validation-for="Description"></span>
+        </div>
+        <div class="mb-3 row">
+            <div class="col">
+                <label class="form-label">Stok Miktarı</label>
+                <input asp-for="Stock" class="form-control" />
+                <span class="text-danger" asp-validation-for="Stock"></span>
+            </div>
+            <div class="col">
+                <label class="form-label">Satış Fiyatı</label>
+                <input asp-for="Price" class="form-control" />
+                <span class="text-danger" asp-validation-for="Price"></span>
+            </div>
+        </div>
+        <div class="mb-3">
+            <input type="hidden" asp-for="ImageUrl" />
+            <label for="formFile">Image</label>
+            <input class="form-control" type="file" name="file" id="formFile">
+            <span class="text-danger">@TempData["imageError"]</span>
+        </div>
+        <button type="submit" class="btn btn-success w-100">Kaydet</button>
+    </form>
+</div>

@@ -1,0 +1,77 @@
+﻿@using LibraryControl.Entity.Entities
+@model BookModel
+
+<div class="bg-light border p-4 rounded m-auto" style="width:80%;">
+    <div class="row">
+        <div class="col-md-3">
+            <img class="img-fluid border rounded mb-1" src="~/img/@Model.ImageUrl" />
+        </div>
+        <div class="col-md-9">
+            <h2>Kitap Ekle</h2>
+            <form method="post" enctype="multipart/form-data">
+                <input type="hidden" asp-for="Id" value="@Model.Id" />
+                <div class="mb-3">
+                    <label class="form-label">Kitap adı</label>
+                    <input asp-for="Name" value="@Model.Name" class="form-control" />
+                    <span class="text-danger" asp-validation-for="Name"></span>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Kategori</label>
+                    <select class="form-select" asp-for="CategoryId">
+                        @foreach (var item in (List<Category>)ViewBag.Categories)
+                        {
+                            if (item.Id == Model.CategoryId)
+                            {
+                                <option selected value="@item.Id">@item.Name</option>
+                            }
+                            else
+                            {
+                                <option value="@item.Id">@item.Name</option>
+                            }
+                        }
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Yazar</label>
+                    <select class="form-select" asp-for="WriterId">
+                        @foreach (var item in (List<Writer>)ViewBag.Writers)
+                        {
+                            if (item.Id == Model.WriterId)
+                            {
+                                <option selected value="@item.Id">@item.Name</option>
+                            }
+                            else
+                            {
+                                <option value="@item.Id">@item.Name</option>
+                            }
+                        }
+                    </select>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Açıklama</label>
+                    <textarea asp-for="Description" value="@Model.Description" class="form-control"></textarea>
+                    <span class="text-danger" asp-validation-for="Description"></span>
+                </div>
+                <div class="mb-3 row">
+                    <div class="col">
+                        <label class="form-label">Stok Miktarı</label>
+                        <input asp-for="Stock" value="@Model.Stock" class="form-control" />
+                        <span class="text-danger" asp-validation-for="Stock"></span>
+                    </div>
+                    <div class="col">
+                        <label class="form-label">Satış Fiyatı</label>
+                        <input asp-for="Price" value="@Model.Price" class="form-control" />
+                        <span class="text-danger" asp-validation-for="Price"></span>
+                    </div>
+                </div>
+                <div class="mb-3">
+                    <input type="hidden" asp-for="ImageUrl" value="@Model.ImageUrl" />
+                    <label for="formFile">Image</label>
+                    <input class="form-control" type="file" name="file" id="formFile">
+                    <span class="text-danger">@TempData["imageError"]</span>
+                </div>
+                <button type="submit" class="btn btn-warning w-100">Kaydet</button>
+            </form>
+        </div>
+    </div>
+</div>

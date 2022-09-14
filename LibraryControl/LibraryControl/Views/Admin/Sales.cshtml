@@ -1,0 +1,85 @@
+﻿@using LibraryControl.Entity.Entities
+@model List<Sale>
+
+<div class="bg-light border p-4 rounded m-auto">
+    <nav class="navbar bg-light mb-4">
+        <div class="container-fluid">
+            <h2>Satış/Kiralama Listesi</h2>
+            <form class="d-flex" method="get" asp-controller="Admin" asp-action="Sales">
+                <select class="form-select me-2" name="selectFilter">
+                    <option value="all" selected>Tüm kayıtlar</option>
+                    <option value="sale">Sadece satılanlar</option>
+                    <option value="lease">Sadece Kiralananlar</option>
+                </select>
+                <input class="form-control me-2" name="search" placeholder="Kayıt ara..">
+                <button class="btn btn-dark" type="submit"><i class="bi bi-search"></i></button>
+            </form>
+        </div>
+        <div class="container-fluid">
+            <small class="text-secondary">@ViewBag.Title <a class="text-secondary" href="~/sales">Aramayı temizle</a></small>
+        </div>
+    </nav>
+    @if (Model.Count() > 0)
+    {
+        <table class="table bg-light">
+            <thead>
+                <tr>
+                    <th scope="col">Id</th>
+                    <th scope="col">Ad Soyad</th>
+                    <th scope="col">Telefon</th>
+                    <th scope="col">Email</th>
+                    <th scope="col">Adres</th>
+                    <th scope="col">Kitap</th>
+                    <th scope="col">Tarih</th>
+                    <th scope="col">Kayıt Tipi</th>
+                    <th scope="col"></th>
+                    <th scope="col"></th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var item in Model)
+                {
+                    <tr>
+                        <th scope="col">@item.Id</th>
+                        <td>@item.Name @item.Surname</td>
+                        <td>@item.Phone</td>
+                        <td>@item.Email</td>
+                        <td>@item.Adress</td>
+                        <td>@item.Book?.Name</td>
+                        <td>@item.Date</td>
+                        @if (item.RecordType == false)
+                        {
+                            <td>Satış</td>
+
+                        }
+                        else
+                        {
+                            <td>Kiralama</td>
+                        }
+                        <td>
+                            @if (item.RecordType == true)
+                            {
+                                <form method="post" class="form-inline" asp-controller="admin" asp-action="sales">
+                                    <input type="hidden" name="id" value="@item.Id" />
+                                    <button type="submit" class="btn btn-primary py-0"><i class="bi bi-check-circle-fill"></i> Teslim</button>
+                                </form>
+                            }
+                        </td>
+                        <td>
+                            <form method="post" class="form-inline" asp-controller="admin" asp-action="deletesale">
+                                <input type="hidden" name="id" value="@item.Id" />
+                                <button type="submit" class="btn btn-danger rounded py-0"><i class="bi bi-x"></i></button>
+                            </form>
+                        </td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    }
+    else
+    {
+        <div class="alert alert-dark">
+            Aranılan kriterlerde kayıt bulunmuyor.
+        </div>
+    }
+</div>

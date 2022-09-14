@@ -1,0 +1,64 @@
+﻿@model WriterModel
+
+<div class="bg-light border p-4 rounded m-auto">
+    <div class="row">
+        <div class="col-md-7 pe-5 border-end">
+            <nav class="navbar bg-light mb-4">
+                <div class="container-fluid">
+                    <h2>Yazar Listesi</h2>
+                    <form class="d-flex" method="get" asp-controller="admin" asp-action="writers">
+                        <input class="form-control me-2" name="search" placeholder="Kayıt ara..">
+                        <button class="btn btn-dark" type="submit"><i class="bi bi-search"></i></button>
+                    </form>
+                </div>
+                <div class="container-fluid">
+                    <a class="text-secondary" href="~/writers">Aramayı temizle</a>
+                </div>
+            </nav>
+            @if (Model.Writers?.Count > 0)
+            {
+                <table class="table bg-light">
+                    <thead>
+                        <tr>
+                            <th scope="col">Id</th>
+                            <th scope="col">Ad Soyad</th>
+                            <th></th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (var item in Model.Writers)
+                        {
+                            <tr>
+                                <th scope="col">@item.Id</th>
+                                <td>@item.Name</td>
+                                <td>
+                                    <form method="post" asp-action="writers">
+                                        <input type="hidden" name="Id" value="@item.Id" />
+                                        <button type="submit" class="btn btn-danger rounded py-0"><i class="bi bi-x"></i></button>
+                                    </form>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            }
+            else
+            {
+                <div class="alert alert-secondary">
+                    Aranılan kriterlerde ürün bulunmuyor.
+                </div>
+            }
+        </div>
+        <div class="col ps-5">
+            <h3>Yazar Ekle</h3>
+            <form method="post" asp-action="addwriter">
+                <div class="mb-3">
+                    <label class="form-label">Ad Soyad</label>
+                    <input class="form-control" asp-for="WriterName" />
+                    <span class="text-danger">@TempData["nameError"]</span>
+                </div>
+                <button type="submit" class="btn btn-primary">Kaydet</button>
+            </form>
+        </div>
+    </div>
+</div>

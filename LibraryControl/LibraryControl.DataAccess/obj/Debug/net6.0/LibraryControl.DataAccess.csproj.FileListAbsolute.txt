@@ -1,0 +1,60 @@
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.DataAccess.deps.json
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.DataAccess.pdb
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.DataAccess\obj\Debug\net6.0\refint\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.pdb
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.DataAccess\obj\Debug\net6.0\ref\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.csproj.CopyComplete
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.DataAccess.deps.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.DataAccess.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.csproj.CopyComplete
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\refint\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\ref\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.DataAccess.deps.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.DataAccess.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.csproj.CopyComplete
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\refint\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya - Kopya\LibraryControl.DataAccess\obj\Debug\net6.0\ref\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.DataAccess.deps.json
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.DataAccess.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.Entity.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.DataAccess\bin\Debug\net6.0\LibraryControl.Entity.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.csproj.AssemblyReference.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.AssemblyInfoInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.AssemblyInfo.cs
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.csproj.CopyComplete
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.DataAccess\obj\Debug\net6.0\refint\LibraryControl.DataAccess.dll
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.DataAccess\obj\Debug\net6.0\LibraryControl.DataAccess.pdb
+C:\Users\FURKAN\Desktop\LibraryControl - Kopya (3)\LibraryControl.DataAccess\obj\Debug\net6.0\ref\LibraryControl.DataAccess.dll

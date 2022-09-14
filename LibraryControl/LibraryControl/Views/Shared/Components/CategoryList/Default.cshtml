@@ -1,0 +1,12 @@
+﻿@using LibraryControl.Entity.Entities
+@model List<Category>
+
+
+<ul class="list-group bg-light">
+    <li class="list-group-item bg-dark text-white">Kategoriler</li>
+    <a href="~/books" class="list-group-item list-group-item-action">Tüm Kategoriler</a>
+    @foreach (var item in Model)
+    {
+        <a href="~/books/@item.Name" class="list-group-item list-group-item-action">@item.Name</a>
+    }
+</ul>
